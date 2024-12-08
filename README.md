@@ -1,0 +1,1 @@
+This repository contains a simple Python-based Banking System application that demonstrates how to perform CRUD operations on a MySQL database. The application allows users to manage bank accounts through features such as account creation, deposits, withdrawals, and account information retrieval. It serves as a practical example of database integration in Python.
